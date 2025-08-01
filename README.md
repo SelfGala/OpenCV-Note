@@ -26,6 +26,11 @@
 - Sobel算子
 - Scharr算子与Laplacian算子
 
+### 5.边缘检测
+- Canny边缘检测
+- 非极大值抑制
+- 双阈值检测
+
 ## 工具与依赖
 
 - Python
