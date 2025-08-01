@@ -3,7 +3,7 @@
 这是我个人关于 OpenCV 的学习笔记，记录了我在学习图像处理过程中遇到的重要知识点与代码示例。  
 笔记主要通过 Python + OpenCV 实现，并使用 Jupyter Notebook 整理内容。
 
-具体代码见 .\src\openCV.ipynb
+具体代码见 (.\src\openCV.ipynb)
 
 ## 学习内容包括（已更新）：
 
