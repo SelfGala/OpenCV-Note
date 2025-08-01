@@ -3,6 +3,8 @@
 这是我个人关于 OpenCV 的学习笔记，记录了我在学习图像处理过程中遇到的重要知识点与代码示例。  
 笔记主要通过 Python + OpenCV 实现，并使用 Jupyter Notebook 整理内容。
 
+具体代码见 .\src\openCV.ipynb
+
 ## 学习内容包括（已更新）：
 
 ### 1. 图像基本操作
@@ -25,11 +27,15 @@
 ### 4.图像梯度计算
 - Sobel算子
 - Scharr算子与Laplacian算子
+- 各算子的特点差异
 
 ### 5.边缘检测
 - Canny边缘检测
-- 非极大值抑制
-- 双阈值检测
+- 非极大值抑制（Non-Maximum Suppression）
+- 双阈值检测（Double-Threshold）
+
+### 6.图像金字塔与轮廓检测
+- 轮廓检测方法和模板匹配方法
 
 ## 工具与依赖
 
